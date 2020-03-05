@@ -1,0 +1,4 @@
+include ':app'
+rootProject.name='Image Processing'
+
+include ':openCVLibrary320'
